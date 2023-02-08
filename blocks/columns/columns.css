@@ -1,4 +1,4 @@
-.columns {
+.columns > div > div > ul {
     list-style: square;
 }
 
