@@ -1,4 +1,5 @@
 .columns > div {
+    list-style: square;
     display: flex;
     flex-direction: column;
 }
