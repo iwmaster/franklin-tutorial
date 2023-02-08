@@ -1,5 +1,4 @@
-.cards > ul {
-    list-style: square;
+.cards > div {
     margin: 0;
     padding: 0;
     display: grid;
