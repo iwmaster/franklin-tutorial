@@ -1,3 +1,7 @@
+.columns {
+    list-style: square;
+}
+
 .columns > div {
     list-style: square;
     display: flex;
