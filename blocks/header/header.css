@@ -39,6 +39,7 @@ header nav .nav-brand p {
 }
 
 header nav .nav-brand img {
+  width: 40px;
   height: auto;
 }
 
